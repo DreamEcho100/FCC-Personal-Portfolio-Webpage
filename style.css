@@ -303,17 +303,3 @@ footer header::after {
     word-spacing: -2px;
   }
 }
-/*
-
-@media (max-width: 525px) {
-}
-@media (max-width: 900px) {
-  html {
-    font-size: 60%;
-  }
-}
-@media (max-width: 525px) {
-  html {
-    font-size: 58%;
-  }
-}*/
